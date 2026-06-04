@@ -77,7 +77,7 @@ const count = ref(0)
             X.com
           </a>
         </li>
-        <li>
+        <li v-if>
           <a href="https://bsky.app/profile/vite.dev" target="_blank">
             <svg class="button-icon" role="presentation" aria-hidden="true">
               <use href="/icons.svg#bluesky-icon"></use>
