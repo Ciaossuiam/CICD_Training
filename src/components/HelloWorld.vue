@@ -82,7 +82,7 @@ const count = ref(0)
             <svg class="button-icon" role="presentation" aria-hidden="true">
               <use href="/icons.svg#bluesky-icon"></use>
             </svg>
-            Bluesky
+            Blueskys
           </a>
         </li>
       </ul>
