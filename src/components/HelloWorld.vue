@@ -22,7 +22,7 @@ const count = ref(0)
       Count is {{ count }}
     </button>
   </section>
-
+  <div v-if></div>
   <div class="ticks"></div>
 
   <section id="next-steps">
